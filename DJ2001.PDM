@@ -1,0 +1,483 @@
+[Root]
+Most Recent Package=Xrated DJ-2001 Maximum Installation - GER
+
+
+[Package|DJ2001 - Minimum|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001
+
+[Package|DJ2001 - Minimum|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DJ2001 - Minimum|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DJ2001 - Minimum|Files Found]
+
+[Package|DJ2001 - Minimum|Files Released]
+
+[Package|DJ2001 - Minimum|Missing Dependency Information]
+C:\Eigene Dateien\Visual basic\Projekte\UserControls\Browser\XRFMK01.ocx=
+C:\Eigene Dateien\Visual basic\Audio LED\AudioLed.ocx=
+C:\WINNT\system32\msdxm.ocx=
+
+[Package|DJ2001 - Minimum|Out-of-Date Dependency Information]
+C:\WINNT\system32\comdlg32.ocx=
+C:\WINNT\system32\COMCT332.OCX=
+
+[Package|DJ2001 - Minimum|Files Added]
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\ReadMe.txt=
+
+[Package|DJ2001 - Minimum|Files Removed]
+c:\winnt\system32\vb6de.dll=
+c:\winnt\system32\msdxm.ocx=
+c:\winnt\system32\comctl32.ocx=
+c:\winnt\system32\comct332.ocx=
+c:\winnt\system32\cmct3de.dll=
+c:\winnt\system32\cmctlde.dll=
+c:\winnt\system32\cmdlgde.dll=
+c:\winnt\system32\comdlg32.ocx=
+c:\winnt\system32\mscc2de.dll=
+c:\winnt\system32\mscmcde.dll=
+c:\winnt\system32\mscomctl.ocx=
+c:\winnt\system32\msvbvm60.dll=
+c:\winnt\system32\oleaut32.dll=
+c:\winnt\system32\olepro32.dll=
+c:\winnt\system32\asycfilt.dll=
+c:\winnt\system32\stdole2.tlb=
+c:\programme\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+
+[Package|DJ2001 - Minimum|Files In Project]
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\DJ2001.exe=Yes
+C:\WINNT\system32\Msvbvm60.dll=No
+C:\WINNT\system32\OLEAUT32.DLL=No
+C:\WINNT\system32\OLEPRO32.DLL=No
+C:\WINNT\system32\ASYCFILT.DLL=No
+C:\WINNT\system32\STDOLE2.TLB=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINNT\system32\VB6DE.DLL=No
+C:\WINNT\system32\COMCTL32.OCX=No
+C:\WINNT\system32\CMCTLDE.DLL=No
+C:\WINNT\system32\MSCOMCTL.OCX=No
+C:\WINNT\system32\MSCMCDE.DLL=No
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=No
+C:\WINNT\system32\COMCT332.OCX=No
+C:\WINNT\system32\CMCT3DE.DLL=No
+C:\WINNT\system32\comdlg32.ocx=No
+C:\WINNT\system32\CMDLGDE.DLL=No
+C:\WINNT\system32\msdxm.ocx=No
+C:\Eigene Dateien\Visual basic\Audio LED\AudioLed.ocx=Yes
+C:\Eigene Dateien\Visual basic\Projekte\UserControls\Browser\XRFMK01.ocx=Yes
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\ReadMe.txt=Yes
+
+[Package|DJ2001 - Minimum|Configure Registry Files]
+Applicable=
+
+[Package|DJ2001 - Minimum|Configure Remote Servers]
+Applicable=
+
+[Package|DJ2001 - Minimum|Install Locations]
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\DJ2001.exe=$(AppPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Eigene Dateien\Visual basic\Audio LED\AudioLed.ocx=$(WinSysPath)
+C:\Eigene Dateien\Visual basic\Projekte\UserControls\Browser\XRFMK01.ocx=$(WinSysPath)
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\ReadMe.txt=$(AppPath)
+
+[Package|DJ2001 - Minimum|Configure Shared Files]
+Applicable=
+
+[Package|DJ2001 - Minimum|DepFile]
+DepCabFile=DJ2001.CAB
+DepCabRun=DJ2001.INF
+
+[Package|DJ2001 - Minimum|Package]
+PackageFolder=C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001
+ProjectFolder=C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001
+ServerSideCab=
+File1=C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\DJ2001.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|DJ-2001 Setup - Minimum|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Eigene Dateien\Installationen\Xrated DJ-2001
+
+[Package|DJ-2001 Setup - Minimum|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DJ-2001 Setup - Minimum|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DJ-2001 Setup - Minimum|Files Found]
+
+[Package|DJ-2001 Setup - Minimum|Files Released]
+
+[Package|DJ-2001 Setup - Minimum|Missing Dependency Information]
+C:\Eigene Dateien\Visual basic\Projekte\UserControls\Browser\XRFMK01.ocx=
+C:\Eigene Dateien\Visual basic\Audio LED\AudioLed.ocx=
+C:\WINNT\system32\msdxm.ocx=
+C:\WINNT\system32\XRFMK01.ocx=
+C:\WINNT\system32\AudioLed.ocx=
+
+[Package|DJ-2001 Setup - Minimum|Out-of-Date Dependency Information]
+C:\WINNT\system32\comdlg32.ocx=
+C:\WINNT\system32\COMCT332.OCX=
+
+[Package|DJ-2001 Setup - Minimum|Files Added]
+c:\eigene dateien\visual basic\projekte\xrated dj-2001\readme.txt=
+
+[Package|DJ-2001 Setup - Minimum|Files Removed]
+c:\winnt\system32\vb6de.dll=
+c:\winnt\system32\msdxm.ocx=
+c:\winnt\system32\comctl32.ocx=
+c:\winnt\system32\comct332.ocx=
+c:\winnt\system32\cmct3de.dll=
+c:\winnt\system32\cmctlde.dll=
+c:\winnt\system32\cmdlgde.dll=
+c:\winnt\system32\comdlg32.ocx=
+c:\winnt\system32\mscc2de.dll=
+c:\winnt\system32\mscmcde.dll=
+c:\winnt\system32\mscomctl.ocx=
+c:\winnt\system32\msvbvm60.dll=
+c:\winnt\system32\oleaut32.dll=
+c:\winnt\system32\olepro32.dll=
+c:\winnt\system32\asycfilt.dll=
+c:\winnt\system32\stdole2.tlb=
+c:\programme\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+
+[Package|DJ-2001 Setup - Minimum|Files In Project]
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\DJ2001.exe=Yes
+C:\WINNT\system32\Msvbvm60.dll=No
+C:\WINNT\system32\OLEAUT32.DLL=No
+C:\WINNT\system32\OLEPRO32.DLL=No
+C:\WINNT\system32\ASYCFILT.DLL=No
+C:\WINNT\system32\STDOLE2.TLB=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINNT\system32\VB6DE.DLL=No
+C:\WINNT\system32\COMCTL32.OCX=No
+C:\WINNT\system32\CMCTLDE.DLL=No
+C:\WINNT\system32\MSCOMCTL.OCX=No
+C:\WINNT\system32\MSCMCDE.DLL=No
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=No
+C:\WINNT\system32\COMCT332.OCX=No
+C:\WINNT\system32\CMCT3DE.DLL=No
+C:\WINNT\system32\comdlg32.ocx=No
+C:\WINNT\system32\CMDLGDE.DLL=No
+C:\WINNT\system32\msdxm.ocx=No
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\ReadMe.txt=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINNT\system32\AudioLed.ocx=Yes
+C:\WINNT\system32\XRFMK01.ocx=Yes
+
+[Package|DJ-2001 Setup - Minimum|Configure Registry Files]
+Applicable=No
+
+[Package|DJ-2001 Setup - Minimum|Configure Remote Servers]
+Applicable=No
+
+[Package|DJ-2001 Setup - Minimum|Install Locations]
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\DJ2001.exe=$(AppPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Eigene Dateien\Visual basic\Audio LED\AudioLed.ocx=$(WinSysPath)
+C:\Eigene Dateien\Visual basic\Projekte\UserControls\Browser\XRFMK01.ocx=$(WinSysPath)
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\ReadMe.txt=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\AudioLed.ocx=$(WinSysPath)
+C:\WINNT\system32\XRFMK01.ocx=$(WinSysPath)
+
+[Package|DJ-2001 Setup - Minimum|Configure Shared Files]
+Applicable=Yes
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\DJ2001.exe=No
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\ReadMe.txt=No
+
+[Package|DJ-2001 Setup - Minimum|DepFile]
+DepCabFile=DJ2001.CAB
+DepCabRun=DJ2001.INF
+
+[Package|DJ-2001 Setup - Minimum|Distribution]
+Type=single
+Size=1.44 MB
+Title=Xrated DJ-2001
+
+[Package|DJ-2001 Setup - Minimum|Package]
+PackageFolder=C:\Eigene Dateien\Installationen\Xrated DJ-2001
+ProjectFolder=C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001
+ServerSideCab=
+File1=C:\Eigene Dateien\Installationen\Xrated DJ-2001\setup.exe
+File2=C:\Eigene Dateien\Installationen\Xrated DJ-2001\Setup.Lst
+File3=C:\Eigene Dateien\Installationen\Xrated DJ-2001\DJ2001.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|DJ-2001 Setup - Minimum|IconGroups]
+Group0=Xrated DJ-2001
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|DJ-2001 Setup - Minimum|Xrated DJ-2001]
+Icon1=DJ2001.exe
+Title1=Xrated DJ-2001
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=ReadMe.txt
+Title2=ReadMe
+StartIn2=$(AppPath)
+Key2=Icon3
+
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Eigene Dateien\Installationen\Xrated DJ-2001\Maximum
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Files Found]
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Files Released]
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Missing Dependency Information]
+C:\VBWebSamples\SysTray\SysTray.ocx=
+C:\WINNT\system32\XRFMK01.ocx=
+C:\WINNT\system32\AudioLed.ocx=
+C:\WINNT\system32\msdxm.ocx=
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Out-of-Date Dependency Information]
+C:\WINNT\system32\comdlg32.ocx=
+C:\WINNT\system32\COMCT332.OCX=
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Files Added]
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Files Removed]
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Files In Project]
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\DJ2001.exe=Yes
+C:\WINNT\system32\Msvbvm60.dll=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\COMCTL32.OCX=Yes
+C:\WINNT\system32\CMCTLDE.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\COMCT332.OCX=Yes
+C:\WINNT\system32\CMCT3DE.DLL=Yes
+C:\WINNT\system32\comdlg32.ocx=Yes
+C:\WINNT\system32\CMDLGDE.DLL=Yes
+C:\WINNT\system32\msdxm.ocx=Yes
+C:\WINNT\system32\AudioLed.ocx=Yes
+C:\WINNT\system32\XRFMK01.ocx=Yes
+C:\VBWebSamples\SysTray\SysTray.ocx=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Configure Registry Files]
+Applicable=No
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Configure Remote Servers]
+Applicable=No
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Install Locations]
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\DJ2001.exe=$(AppPath)
+C:\WINNT\system32\Msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\CMCTLDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINNT\system32\CMCT3DE.DLL=$(WinSysPath)
+C:\WINNT\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMDLGDE.DLL=$(WinSysPath)
+C:\WINNT\system32\msdxm.ocx=$(WinSysPath)
+C:\WINNT\system32\AudioLed.ocx=$(WinSysPath)
+C:\WINNT\system32\XRFMK01.ocx=$(WinSysPath)
+C:\VBWebSamples\SysTray\SysTray.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Configure Shared Files]
+Applicable=Yes
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\DJ2001.exe=No
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Distribution]
+Type=single
+Size=
+Title=Xrated DJ-2001 (Eng)
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|IconGroups]
+Group0=Xrated DJ-2001 (Eng)
+PrivateGroup0=Wahr
+Parent0=$(Programs)
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Xrated DJ-2001 (Eng)]
+Icon1=DJ2001.exe
+Title1=Xrated DJ-2001 (Eng)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Xrated DJ-2001 (Eng) - Maximum|Package]
+PackageFolder=C:\Eigene Dateien\Installationen\Xrated DJ-2001\Maximum
+ProjectFolder=C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001
+ServerSideCab=
+File1=C:\Eigene Dateien\Installationen\Xrated DJ-2001\Maximum\setup.exe
+File2=C:\Eigene Dateien\Installationen\Xrated DJ-2001\Maximum\Setup.Lst
+File3=C:\Eigene Dateien\Installationen\Xrated DJ-2001\Maximum\DJ2001.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Eigene Dateien\Installationen\Xrated DJ-2001\Maximum\GER
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Files Found]
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Files Released]
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Missing Dependency Information]
+C:\VBWebSamples\SysTray\SysTray.ocx=
+C:\WINNT\system32\XRFMK01.ocx=
+C:\WINNT\system32\AudioLed.ocx=
+C:\WINNT\system32\msdxm.ocx=
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Out-of-Date Dependency Information]
+C:\WINNT\system32\comdlg32.ocx=
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Files Added]
+c:\eigene dateien\visual basic\projekte\xrated dj-2001\readme.txt=
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Files Removed]
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Files In Project]
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\DJ2001.exe=Yes
+C:\WINNT\system32\Msvbvm60.dll=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\COMCTL32.OCX=Yes
+C:\WINNT\system32\CMCTLDE.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\comdlg32.ocx=Yes
+C:\WINNT\system32\CMDLGDE.DLL=Yes
+C:\WINNT\system32\msdxm.ocx=Yes
+C:\WINNT\system32\AudioLed.ocx=Yes
+C:\WINNT\system32\XRFMK01.ocx=Yes
+C:\VBWebSamples\SysTray\SysTray.ocx=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\ReadMe.txt=Yes
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Configure Registry Files]
+Applicable=No
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Configure Remote Servers]
+Applicable=No
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Install Locations]
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\DJ2001.exe=$(AppPath)
+C:\WINNT\system32\Msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\CMCTLDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMDLGDE.DLL=$(WinSysPath)
+C:\WINNT\system32\msdxm.ocx=$(WinSysPath)
+C:\WINNT\system32\AudioLed.ocx=$(WinSysPath)
+C:\WINNT\system32\XRFMK01.ocx=$(WinSysPath)
+C:\VBWebSamples\SysTray\SysTray.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\ReadMe.txt=$(AppPath)
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Configure Shared Files]
+Applicable=Yes
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\DJ2001.exe=No
+C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001\ReadMe.txt=No
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Distribution]
+Type=single
+Size=
+Title=Xrated Software's DJ-2001
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Package]
+PackageFolder=C:\Eigene Dateien\Installationen\Xrated DJ-2001\Maximum\GER
+ProjectFolder=C:\Eigene Dateien\Visual basic\Projekte\Xrated DJ-2001
+ServerSideCab=
+File1=C:\Eigene Dateien\Installationen\Xrated DJ-2001\Maximum\GER\setup.exe
+File2=C:\Eigene Dateien\Installationen\Xrated DJ-2001\Maximum\GER\Setup.Lst
+File3=C:\Eigene Dateien\Installationen\Xrated DJ-2001\Maximum\GER\DJ2001.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|IconGroups]
+Group0=Xrated Software's DJ-2001
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Xrated DJ-2001 Maximum Installation - GER|Xrated Software's DJ-2001]
+Icon1=DJ2001.exe
+Title1=Xrated Software's DJ-2001
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=ReadMe.txt
+Title2=Read Me
+StartIn2=$(AppPath)
+Key2=Icon3
