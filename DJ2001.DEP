@@ -1,0 +1,26 @@
+[Version]
+Version=1.2.0.3
+
+[DJ2001.exe <0007>]
+Dest=$(AppPath)
+Date=29.10.2000
+Time=13:59
+Version=1.2.0.3
+CABFilename=DJ2001.CAB
+CABINFFile=DJ2001.INF
+Uses1=MSCOMCT2.OCX
+Uses2=AudioLed.ocx
+Uses3=XRFMK01.ocx
+Uses4=ReadMe.txt
+
+[AudioLed.ocx <0007>]
+Dest=$(WinSysPath)
+Date=28.09.2001
+Time=11:31
+Version=1.0.0.0
+
+[XRFMK01.ocx <0007>]
+Dest=$(WinSysPath)
+Date=29.10.2000
+Time=02:39
+Version=1.0.0.6
